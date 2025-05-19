@@ -1,2 +1,2 @@
 # SpinPyx
-SpinPyx: Spin-weighted neural tools for structured data on the sphere Spherical pixels, spin-aware models.
+A [SpinStep](https://github.com/VoxLeone/SpinStep/blob/main/README.md)-based traversal engine for orientation-aware processing of spherical data structures (like HEALPix).
